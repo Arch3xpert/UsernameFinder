@@ -6,3 +6,6 @@ Find usernames across over 75 social networks.
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
 
 ![ur](https://image.ibb.co/kk5OHe/finduser.png)
+
+### Donate! 
+Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
